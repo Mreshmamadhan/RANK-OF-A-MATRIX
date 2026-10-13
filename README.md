@@ -19,7 +19,8 @@ To write a python program to find the rank of a matrix
 ### a = np.array([[3,2,5],[1,1,2],[3,3,6]])
 ### sol = np.linalg.matrix_rank(a)
 ### print(sol)
-## Output:<img width="660" height="736" alt="Screenshot 2026-10-13 192902" src="https://github.com/user-attachments/assets/40ad4923-6871-43f9-a20a-2221423bc773" />
+## Output:
+<img width="660" height="736" alt="Screenshot 2026-10-13 192902" src="https://github.com/user-attachments/assets/40ad4923-6871-43f9-a20a-2221423bc773" />
 
 ## Result:
 Thus the rank for the given matrix is successfully solved by  using a python program.
